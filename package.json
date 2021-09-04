@@ -1,7 +1,7 @@
 {
   "name": "simple-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "AK test server",
   "main": "app.js",
   "dependencies": {
     "http": "^0.0.1-security"
