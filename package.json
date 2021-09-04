@@ -1,0 +1,12 @@
+{
+  "name": "simple-node-js",
+  "version": "1.0.0",
+  "description": "Simple Node.js Server",
+  "main": "app.js",
+  "scripts": {
+  	"start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Khoo",
+  "license": "MIT"
+}
